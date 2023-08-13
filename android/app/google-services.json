@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "520661587487",
+    "firebase_url": "https://newflutter-6a968-default-rtdb.firebaseio.com",
+    "project_id": "newflutter-6a968",
+    "storage_bucket": "newflutter-6a968.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520661587487:android:82efcef160ba74b261a72a",
+        "android_client_info": {
+          "package_name": "com.example.uber"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1pelPKs80HGW9tl7SrzGdv_MKasIrctA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
